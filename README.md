@@ -29,10 +29,4 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
 
----
-
-## 📊 GitHub Stats | إحصائيات جيت هب  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasl8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasl8&layout=compact&theme=tokyonight)  
-
 له
