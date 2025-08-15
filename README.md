@@ -32,6 +32,6 @@
 ---
 
 ## 📊 GitHub Stats | إحصائيات جيت هب  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?fasl8=fasl8&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?fasl8=fasl8&layout=compact&theme=tokyonight)  
 له
