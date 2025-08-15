@@ -39,3 +39,8 @@ I believe in writing code that works, is maintainable, and scalable.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
 
 ---
+
+## 📊 GitHub Stats | إحصائيات جيت هب  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+له
