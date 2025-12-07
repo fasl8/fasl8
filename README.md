@@ -34,14 +34,8 @@
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=fasl8&theme=radical)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasl8&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fasl8&theme=radical)
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasl8&layout=compact&theme=radical)
+
 
